@@ -1,4 +1,4 @@
-# Curso 
+# Curso de Git
 ## Del catalogo de formación de Personal Soft
 ### Azure DevopsGit de principiante a experto, GitHub, GitLab, Azure, Commit.
 #### Clase de: Markdown
