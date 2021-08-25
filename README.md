@@ -19,7 +19,8 @@ Aprendemos en una sesion
 
 #### Primer parte
 Quiero aprender ansible, necesito la [documentación](https://www.ansible.com/)
-Logo ![logo](https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg)
+
+Este es el logo ![logo](https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg)
 
 #### Segunda parte
 Quiero aprender ansible, necesito la [documentación]
@@ -63,3 +64,5 @@ Sigamos otro parrafo
 Nombre | Documentacion
 |--|--
 Copy | [Ir](https://www.ansible.com/)
+
+
